@@ -26,7 +26,7 @@ import static io.restassured.RestAssured.given;
 
 public class StepAPI {
 
-	public String pasta = "\\Users\\dvieirag\\Downloads\\PDF\\"; // Alterar caminho para criação do PDF
+	public String pasta = "C:\\Users\\Diego\\Desktop\\Diego\\evidencia\\"; // Alterar caminho para criação do PDF
 	public String response;
 
 	
